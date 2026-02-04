@@ -91,15 +91,4 @@ class CompareTable extends StatelessWidget {
           Expanded(
             flex: 3,
             child: Text(
-              v2,
-              style: GoogleFonts.inter(
-                fontWeight: isHighlight ? FontWeight.bold : FontWeight.w600,
-                color: isHighlight ? Colors.blue.shade900 : Colors.black87,
-              ),
-            ),
-          ),
-        ],
-      ),
-    );
-  }
-}
+ 
